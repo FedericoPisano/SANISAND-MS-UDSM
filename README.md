@@ -32,7 +32,7 @@ Géotechnique, 72(9), 753-768. [DOI: 10.1680/jgeot.20.P.029](https://doi.org/10.
 
 
 ## License
-This code is license under the GPL v3.0, see the LICENSE file.
+This code is licensed under the GPL v3.0, see the LICENSE file.
 
 Bentley Systems Inc. and affiliates were granted the exclusive right to use it under the terms of the [Unlicense](https://unlicense.org/). 
 
